@@ -1,4 +1,7 @@
 # GodotEngine-Practice
-GodotEngine learning group items
 
-Theses're items that are not useful.
+This is a folder which store GodotEngine Projects
+
+1. Please save one projects per storage
+
+2. Do not save Error files
